@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MochDiraPertemuan7</string>
+    <string name="camera">Camera</string>
+    <string name="mengambil_gambar">Mengambil Gambar</string>
+    <string name="open_the_camera">Open the Camera</string>
+    <string name="buka_kamera">Buka Kamera</string>
+</resources>
